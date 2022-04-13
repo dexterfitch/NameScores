@@ -1,0 +1,9 @@
+body {
+    padding: 20px 50px;
+}
+blockquote {
+    background-color: azure;
+    border-left: 5px solid aqua;
+    padding: 30px;
+    margin-left: 0;
+}
